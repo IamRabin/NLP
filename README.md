@@ -1,1 +1,1 @@
-# This repo contains projects related with NLP.
+ This repo contains projects related to NLP.
